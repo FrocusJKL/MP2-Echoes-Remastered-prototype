@@ -16,13 +16,31 @@ No incluye modelos 3D, texturas, audio ni otros recursos protegidos por derechos
 
 ## 📷 Capturas
 
-![Screenshot](Media/screenshot1.png)
+### Inicio del Desarrollo 
+![Screenshot 1](Media/screenshot1.png)
+
+### Agregar enemigos
+![Screenshot 2](Media/screenshot2.png)
+
+### Introduccion del arma
+![Screenshot 3](Media/screenshot3.png)
+
+### Ajustes
+![Screenshot 4](Media/screenshot4.png)
+
+### Terminacion
+![Screenshot 5](Media/screenshot5.png)
 
 ---
 
 ## 🎥 Gameplay
 
-![Gameplay](Media/gameplay.gif)
+### Movimiento
+![Gameplay 1](Media/gameplay1.gif)
+
+### Combate
+![Gameplay 2](Media/gameplay2.gif)
+
 
 ---
 
@@ -40,7 +58,7 @@ No incluye modelos 3D, texturas, audio ni otros recursos protegidos por derechos
 - Player Controller
 - Cámara en primera persona
 - HUD
-- Sistema de interacción
+- Animaciones Prosedurales
 - Scripts personalizados
 
 ---
