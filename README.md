@@ -17,29 +17,29 @@ No incluye modelos 3D, texturas, audio ni otros recursos protegidos por derechos
 ## 📷 Capturas
 
 ### Inicio del Desarrollo
-![Screenshot 1](Media/Screenshot1.png)
+<img src="Media/Screenshot1.png" width="60%">
 
 ### Agregar enemigos
-![Screenshot 2](Media/Screenshot2.png)
+<img src="Media/Screenshot2.png" width="60%">
 
 ### Introducción del arma
-![Screenshot 3](Media/Screenshot3.png)
+<img src="Media/Screenshot3.png" width="60%">
 
 ### Ajustes
-![Screenshot 4](Media/Screenshot4.png)
+<img src="Media/Screenshot4.png" width="60%">
 
 ### Terminación
-![Screenshot 5](Media/Screenshot5.png)
+<img src="Media/Screenshot5.png" width="60%">
 
 ---
 
 ## 🎥 Gameplay
 
 ### Movimiento
-![Gameplay 1](Media/Gameplay1.gif)
+<img src="Media/Gameplay1.gif" width="60%">
 
 ### Combate
-![Gameplay 2](Media/Gameplay2.gif)
+<img src="Media/Gameplay2.gif" width="60%">
 
 ---
 
