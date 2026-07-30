@@ -1,84 +1,144 @@
-# Metroid Prime 2 Remaster (Fan Project)
+<div align="center">
 
-> Fan remake desarrollado en Unity con fines educativos.
+# 🌌 Metroid Prime 2: Echoes Remastered (Prototype)
+
+> **Un proyecto apasionado y experimento educativo de 2 meses desarrollado en Unity.**
+
+![Unity](https://shields.io)
+![C#](https://shields.io)
+![Platform](https://shields.io)
+![Status](https://shields.io)
+
+<p align="center">
+  <a href="#-descripción">🎮 Descripción</a> •
+  <a href="#-características">✨ Características</a> •
+  <a href="#-capturas">📷 Capturas</a> •
+  <a href="#-gameplay">🎥 Gameplay</a> •
+  <a href="#-video">📺 Video</a> •
+  <a href="#-créditos">👥 Créditos</a>
+</p>
+
+</div>
 
 ---
 
 ## 🎮 Descripción
 
-Este proyecto es un remake/remaster desarrollado para aprender desarrollo de videojuegos utilizando Unity y C#.
+Este proyecto es un prototipo y ejercicio de aprendizaje enfocado en recrear las mecánicas y la atmósfera de **Metroid Prime 2: Echoes**. Desarrollado íntegramente en Unity utilizando C# durante un periodo de dos meses, sirvió como un experimento técnico para dominar sistemas avanzados de juego en primera persona.
 
-El repositorio únicamente contiene el código fuente desarrollado por mí.
+> [!NOTE]
+> **Nota sobre el Repositorio:** Este repositorio contiene exclusivamente el código fuente y los scripts desarrollados por mí. No incluye modelos 3D, texturas, audio ni recursos protegidos por derechos de autor.
 
-No incluye modelos 3D, texturas, audio ni otros recursos protegidos por derechos de autor.
+---
+
+## ✨ Características Técnicas
+
+| Componente | Detalle Implementado |
+| :--- | :--- |
+| **Player Controller** | Movimiento fluido en primera persona emulando la física del juego original. |
+| **Sistema de HUD** | Interfaz de usuario inmersiva inspirada en el visor clásico de Samus Aran. |
+| **Animaciones** | Sistemas de animación procedimental para el cañón y armas. |
+| **Cámara** | Control de cámara avanzado y comportamiento dinámico de perspectiva. |
+| **Arquitectura** | Estructura modular de scripts en C# y optimización general de rendimiento. |
 
 ---
 
 ## 📷 Capturas
 
-### Inicio del Desarrollo
-<img src="Media/Screenshot1.png" width="60%">
+### 🛠️ Proceso de Desarrollo
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>1. Inicio del Desarrollo</b><br><br>
+      <picture>
+        <img src="Media/Screenshot1.png" width="100%" alt="Inicio del Desarrollo">
+      </picture>
+    </td>
+    <td align="center" width="50%">
+      <b>2. Agregar enemigos</b><br><br>
+      <picture>
+        <img src="Media/Screenshot2.png" width="100%" alt="Agregar enemigos">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>3. Introducción del arma</b><br><br>
+      <picture>
+        <img src="Media/Screenshot3.png" width="100%" alt="Introducción del arma">
+      </picture>
+    </td>
+    <td align="center" width="50%">
+      <b>4. Ajustes</b><br><br>
+      <picture>
+        <img src="Media/Screenshot4.png" width="100%" alt="Ajustes">
+      </picture>
+    </td>
+  </tr>
+</table>
 
-### Agregar enemigos
-<img src="Media/Screenshot2.png" width="60%">
+<br>
 
-### Introducción del arma
-<img src="Media/Screenshot3.png" width="60%">
-
-### Ajustes
-<img src="Media/Screenshot4.png" width="60%">
-
-### Terminación
-<img src="Media/Screenshot5.png" width="60%">
+### 🏆 Resultado Final
+<div align="center">
+  <p><b>5. Terminación del Proyecto</b></p>
+  <picture>
+    <img src="Media/Screenshot5.png" width="85%" alt="Terminación del Proyecto">
+  </picture>
+</div>
 
 ---
 
 ## 🎥 Gameplay
 
-### Movimiento
-<img src="Media/Gameplay1.gif" width="60%">
+### 🏃 Movimiento
+<div align="center">
+  <picture>
+    <img src="Media/Gameplay1.gif" width="80%" alt="Gameplay Movimiento">
+  </picture>
+</div>
 
-### Combate
-<img src="Media/Gameplay2.gif" width="60%">
-
----
-
-## 🛠 Tecnologías
-
-- Unity
-- C#
-- Visual Studio
-- Git
-
----
-
-## ✨ Características
-
-- Player Controller
-- Cámara en primera persona
-- HUD
-- Animaciones Procedurales
-- Scripts personalizados
+### ⚔️ Combate
+<div align="center">
+  <picture>
+    <img src="Media/Gameplay2.gif" width="80%" alt="Gameplay Combate">
+  </picture>
+</div>
 
 ---
 
 ## 📺 Video
 
-https://youtu.be/gfb3O5M-GZ4?si=O0ja2jL6YmCsIo3o
+Puedes ver el vistazo completo al prototipo en funcionamiento a través del siguiente video en YouTube:
+
+<div align="center">
+  <a href="https://youtu.be/gfb3O5M-GZ4?si=O0ja2jL6YmCsIo3o">
+    <img src="https://youtube.com" alt="Ver Prototipo en YouTube" width="70%" style="border-radius: 8px;">
+    <br>
+    <sub>▶️ Haz clic para ver el video en YouTube</sub>
+  </a>
+</div>
 
 ---
 
-## 📚 Lo que aprendí
+## 📚 Aprendizajes Clave
 
-- Organización de scripts
-- Arquitectura básica en Unity
-- Control de cámaras
-- Optimización
+- 🧠 **Arquitectura Limpia:** Diseño y organización estructurada de scripts en Unity.
+- 📐 **Matemáticas Aplicadas:** Implementación de animaciones procedimentales mediante código.
+- 🕹️ **Game Feel:** Ajuste fino del control de personaje para lograr una respuesta de juego satisfactoria.
+- ⚙️ **Optimización:** Gestión eficiente de recursos y lógicas de actualización dentro del motor gráfico.
 
 ---
 
-## ⚠️ Aviso
+## 👥 Créditos y Agradecimientos
 
-Este proyecto fue desarrollado únicamente con fines educativos.
+Agradecimiento especial a los creadores de los recursos comunitarios utilizados durante este experimento:
+* 🔫 **Modelo del Cañón de Samus:** DorianFillatre
+* 📦 **Modelos Adicionales:** jameslucino117
+* 🧬 **Inspiración:** Saga *Metroid* de Nintendo.
 
-No pretende distribuir contenido protegido por Nintendo.
+---
+
+## ⚠️ Aviso Legal / Disclaimer
+
+Este proyecto fue desarrollado **únicamente con fines educativos y de demostración técnica**. No tiene fines comerciales, es un proyecto sin fines de lucro hecho por un fan y no pretende distribuir ni infringir propiedad intelectual protegida por Nintendo.
