@@ -5,12 +5,12 @@
 > **Un proyecto apasionado y experimento educativo de 2 meses desarrollado en Unity.**
 
 <p align="center">
-  <i href="#-descripción">🎮 Descripción</a> •
-  <i href="#-características">✨ Características</a> •
-  <i href="#-capturas">📷 Capturas</a> •
-  <i href="#-gameplay">🎥 Gameplay</a> •
-  <i href="#-video">📺 Video</a> •
-  <i href="#-créditos">👥 Créditos</a>
+  <a>🎮 Descripción</a> •
+  <a>✨ Características</a> •
+  <a>📷 Capturas</a> •
+  <a>🎥 Gameplay</a> •
+  <a>📺 Video</a> •
+  <a>👥 Créditos</a>
 </p>
 
 </div>
