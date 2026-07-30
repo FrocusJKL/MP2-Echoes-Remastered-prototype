@@ -4,11 +4,6 @@
 
 > **Un proyecto apasionado y experimento educativo de 2 meses desarrollado en Unity.**
 
-![Unity](https://shields.io)
-![C#](https://shields.io)
-![Platform](https://shields.io)
-![Status](https://shields.io)
-
 <p align="center">
   <a href="#-descripción">🎮 Descripción</a> •
   <a href="#-características">✨ Características</a> •
@@ -113,7 +108,7 @@ Puedes ver el vistazo completo al prototipo en funcionamiento a través del sigu
 
 <div align="center">
   <a href="https://youtu.be/gfb3O5M-GZ4?si=O0ja2jL6YmCsIo3o">
-    <img src="https://youtube.com" alt="Ver Prototipo en YouTube" width="70%" style="border-radius: 8px;">
+    <p width="70%" ">Ver Prototipo en YouTube</p>
     <br>
     <sub>▶️ Haz clic para ver el video en YouTube</sub>
   </a>
@@ -135,7 +130,7 @@ Puedes ver el vistazo completo al prototipo en funcionamiento a través del sigu
 Agradecimiento especial a los creadores de los recursos comunitarios utilizados durante este experimento:
 * 🔫 **Modelo del Cañón de Samus:** DorianFillatre
 * 📦 **Modelos Adicionales:** jameslucino117
-* 🧬 **Inspiración:** Saga *Metroid* de Nintendo.
+* 🧬 **Inspiración:** la Increible Saga de *Metroid* de Nintendo.
 
 ---
 
