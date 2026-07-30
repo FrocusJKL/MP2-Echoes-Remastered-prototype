@@ -5,12 +5,12 @@
 > **Un proyecto apasionado y experimento educativo de 2 meses desarrollado en Unity.**
 
 <p align="center">
-  <a href="#-descripción">🎮 Descripción</a> •
-  <a href="#-características">✨ Características</a> •
-  <a href="#-capturas">📷 Capturas</a> •
-  <a href="#-gameplay">🎥 Gameplay</a> •
-  <a href="#-video">📺 Video</a> •
-  <a href="#-créditos">👥 Créditos</a>
+  <i href="#-descripción">🎮 Descripción</a> •
+  <i href="#-características">✨ Características</a> •
+  <i href="#-capturas">📷 Capturas</a> •
+  <i href="#-gameplay">🎥 Gameplay</a> •
+  <i href="#-video">📺 Video</a> •
+  <i href="#-créditos">👥 Créditos</a>
 </p>
 
 </div>
@@ -30,11 +30,10 @@ Este proyecto es un prototipo y ejercicio de aprendizaje enfocado en recrear las
 
 | Componente | Detalle Implementado |
 | :--- | :--- |
-| **Player Controller** | Movimiento fluido en primera persona emulando la física del juego original. |
-| **Sistema de HUD** | Interfaz de usuario inmersiva inspirada en el visor clásico de Samus Aran. |
-| **Animaciones** | Sistemas de animación procedimental para el cañón y armas. |
-| **Cámara** | Control de cámara avanzado y comportamiento dinámico de perspectiva. |
-| **Arquitectura** | Estructura modular de scripts en C# y optimización general de rendimiento. |
+| **Player Controller** | Movimiento fluido en primera persona emulando la física del parecido juego original. |
+| **Animaciones** | Sistemas de animación procedimental para el cañón y transiciones de armas. |
+| **Cámara** | Control de cámara y perspectiva. |
+| **Arquitectura** | Estructura modular de scripts en C# |
 
 ---
 
@@ -107,10 +106,9 @@ Este proyecto es un prototipo y ejercicio de aprendizaje enfocado en recrear las
 Puedes ver el vistazo completo al prototipo en funcionamiento a través del siguiente video en YouTube:
 
 <div align="center">
+  <p width="70%" ">Ver Prototipo en YouTube</p>
   <a href="https://youtu.be/gfb3O5M-GZ4?si=O0ja2jL6YmCsIo3o">
-    <p width="70%" ">Ver Prototipo en YouTube</p>
-    <br>
-    <sub>▶️ Haz clic para ver el video en YouTube</sub>
+    ▶️ Haz clic para ver el video en YouTube
   </a>
 </div>
 
