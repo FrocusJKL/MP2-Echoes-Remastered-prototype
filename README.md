@@ -57,7 +57,7 @@ No incluye modelos 3D, texturas, audio ni otros recursos protegidos por derechos
 - Player Controller
 - Cámara en primera persona
 - HUD
-- Animaciones Prosedurales
+- Animaciones Procedurales
 - Scripts personalizados
 
 ---
