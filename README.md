@@ -47,7 +47,7 @@ No incluye modelos 3D, texturas, audio ni otros recursos protegidos por derechos
 
 ## 📺 Video
 
-https://youtu.be/....
+https://youtu.be/gfb3O5M-GZ4?si=O0ja2jL6YmCsIo3o
 
 ---
 
