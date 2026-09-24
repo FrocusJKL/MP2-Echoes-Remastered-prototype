@@ -19,7 +19,7 @@
 
 ## 🎮 Descripción
 
-Este proyecto es un prototipo y ejercicio de aprendizaje enfocado en recrear las mecánicas y la atmósfera de **Metroid Prime 2: Echoes**. Desarrollado íntegramente en Unity utilizando C# durante un periodo de dos meses, sirvió como un experimento técnico para dominar sistemas avanzados de juego en primera persona.
+Este proyecto es un prototipo y ejercicio de aprendizaje enfocado en recrear las mecánicas y la atmósfera de **Metroid Prime 2: Echoes**. Desarrollado íntegramente en Unity utilizando C# durante un periodo de dos meses, sirvió como un experimento técnico.
 
 > [!NOTE]
 > **Nota sobre el Repositorio:** Este repositorio contiene exclusivamente el código fuente y los scripts desarrollados por mí. No incluye modelos 3D, texturas, audio ni recursos protegidos por derechos de autor.
@@ -117,7 +117,6 @@ Puedes ver el vistazo completo al prototipo en funcionamiento a través del sigu
 ## 📚 Aprendizajes Clave
 
 - 🧠 **Arquitectura Limpia:** Diseño y organización estructurada de scripts en Unity.
-- 📐 **Matemáticas Aplicadas:** Implementación de animaciones procedimentales mediante código.
 - 🕹️ **Game Feel:** Ajuste fino del control de personaje para lograr una respuesta de juego satisfactoria.
 - ⚙️ **Optimización:** Gestión eficiente de recursos y lógicas de actualización dentro del motor gráfico.
 
@@ -129,6 +128,12 @@ Agradecimiento especial a los creadores de los recursos comunitarios utilizados 
 * 🔫 **Modelo del Cañón de Samus:** DorianFillatre
 * 📦 **Modelos Adicionales:** jameslucino117
 * 🧬 **Inspiración:** la Increible Saga de *Metroid* de Nintendo.
+
+---
+
+## ⬇️ Link de Descarga
+
+- https://mega.nz/file/JF80lDoT#nNG8ywzPVe1tD8xs7qMq_0LN0Ri647A_aC5EUrmb4Xw
 
 ---
 
