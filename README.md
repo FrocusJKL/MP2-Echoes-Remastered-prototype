@@ -139,4 +139,4 @@ Agradecimiento especial a los creadores de los recursos comunitarios utilizados 
 
 ## ⚠️ Aviso Legal / Disclaimer
 
-Este proyecto fue desarrollado **únicamente con fines educativos y de demostración técnica** por amor a la saga y este juego en especifico. No tiene fines comerciales, es un proyecto sin fines de lucro hecho por un fan y no pretende distribuir ni infringir propiedad intelectual protegida por Nintendo, No se actualizará.
+Este proyecto fue desarrollado **únicamente con fines educativos y de demostración técnica**, por amor a la saga y este juego en especifico. No tiene fines comerciales, es un proyecto sin fines de lucro hecho por un fan y no pretende distribuir ni infringir propiedad intelectual protegida por Nintendo, No se actualizará.
