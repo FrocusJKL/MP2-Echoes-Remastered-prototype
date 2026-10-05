@@ -2,135 +2,126 @@
 
 # 🌌 Metroid Prime 2: Echoes Remastered (Prototype)
 
-> **Un proyecto apasionado y experimento educativo de 2 meses desarrollado en Unity.**
+> **A passion project and two-month learning experiment built in Unity.**
 
 <p align="center">
-  <a>🎮 Descripción</a> •
-  <a>✨ Características</a> •
-  <a>📷 Capturas</a> •
-  <a>🎥 Gameplay</a> •
-  <a>📺 Video</a> •
-  <a>👥 Créditos</a>
+  <a href="#description">Description</a> •
+  <a href="#technical-features">Features</a> •
+  <a href="#screenshots">Screenshots</a> •
+  <a href="#gameplay">Gameplay</a> •
+  <a href="#video">Video</a> •
+  <a href="#credits">Credits</a>
 </p>
 
 </div>
 
 ---
 
-## 🎮 Descripción
+## Description
 
-Este proyecto es un prototipo y ejercicio de aprendizaje enfocado en recrear las mecánicas y la atmósfera de **Metroid Prime 2: Echoes**. Desarrollado íntegramente en Unity utilizando C# durante un periodo de dos meses, sirvió como un experimento técnico.
+This is a prototype and learning exercise that aims to recreate the mechanics and atmosphere of **Metroid Prime 2: Echoes**. It was built entirely in Unity with C# over the course of two months and served as a technical experiment.
 
 > [!NOTE]
-> **Nota sobre el Repositorio:** Este repositorio contiene exclusivamente el código fuente y los scripts desarrollados por mí. No incluye modelos 3D, texturas, audio ni recursos protegidos por derechos de autor.
+> **Repository note:** This repository contains only the source code and scripts I wrote. It does not include any 3D models, textures, audio, or other copyrighted assets.
 
 ---
 
-## ✨ Características Técnicas
+## Technical Features
 
-| Componente | Detalle Implementado |
+| Component | What's Implemented |
 | :--- | :--- |
-| **Player Controller** | Movimiento fluido en primera persona emulando la física del parecido juego original. |
-| **Animaciones** | Sistemas de animación procedimental para el cañón y transiciones de armas. |
-| **Cámara** | Control de cámara y perspectiva. |
-| **Arquitectura** | Estructura modular de scripts en C# |
+| **Player Controller** | Smooth first-person movement that mimics the physics of the original game. |
+| **Animation** | Procedural animation systems for the arm cannon and weapon transitions. |
+| **Camera** | Camera and perspective control. |
+| **Architecture** | Modular C# script structure. |
 
 ---
 
-## 📷 Capturas
+## Screenshots
 
-### 🛠️ Proceso de Desarrollo
+### Development Process
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <b>1. Inicio del Desarrollo</b><br><br>
-      <picture>
-        <img src="Media/Screenshot1.png" width="100%" alt="Inicio del Desarrollo">
-      </picture>
+      <b>1. Starting development</b><br><br>
+      <img src="Media/Screenshot1.png" width="100%" alt="Starting development">
     </td>
     <td align="center" width="50%">
-      <b>2. Agregar enemigos</b><br><br>
-      <picture>
-        <img src="Media/Screenshot2.png" width="100%" alt="Agregar enemigos">
-      </picture>
+      <b>2. Adding enemies</b><br><br>
+      <img src="Media/Screenshot2.png" width="100%" alt="Adding enemies">
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <b>3. Introducción del arma</b><br><br>
-      <picture>
-        <img src="Media/Screenshot3.png" width="100%" alt="Introducción del arma">
-      </picture>
+      <b>3. Introducing the weapon</b><br><br>
+      <img src="Media/Screenshot3.png" width="100%" alt="Introducing the weapon">
     </td>
     <td align="center" width="50%">
-      <b>4. Ajustes</b><br><br>
-      <picture>
-        <img src="Media/Screenshot4.png" width="100%" alt="Ajustes">
-      </picture>
+      <b>4. Tweaks and polish</b><br><br>
+      <img src="Media/Screenshot4.png" width="100%" alt="Tweaks and polish">
     </td>
   </tr>
 </table>
 
 <br>
 
-### 🏆 Resultado Final
+### Final Result
 <div align="center">
-  <p><b>5. Terminación del Proyecto</b></p>
-  <picture>
-    <img src="Media/Screenshot5.png" width="85%" alt="Terminación del Proyecto">
-  </picture>
+  <p><b>5. Finished prototype</b></p>
+  <img src="Media/Screenshot5.png" width="85%" alt="Finished prototype">
 </div>
 
 ---
 
-## 🎥 Gameplay
+## Gameplay
 
-### 🏃 Movimiento
+### Movement
 <div align="center">
-  <picture>
-    <img src="Media/Gameplay1.gif" width="80%" alt="Gameplay Movimiento">
-  </picture>
+  <img src="Media/Gameplay1.gif" width="80%" alt="Movement gameplay">
 </div>
 
-### ⚔️ Combate
+### Combat
 <div align="center">
-  <picture>
-    <img src="Media/Gameplay2.gif" width="80%" alt="Gameplay Combate">
-  </picture>
+  <img src="Media/Gameplay2.gif" width="80%" alt="Combat gameplay">
 </div>
 
 ---
 
-## 📺 Video
+## Video
 
-Puedes ver el vistazo completo al prototipo en funcionamiento a través del siguiente video en YouTube:
+You can watch the full prototype in action on YouTube:
 
 <div align="center">
-  <p width="70%" ">Ver Prototipo en YouTube</p>
   <a href="https://youtu.be/gfb3O5M-GZ4?si=O0ja2jL6YmCsIo3o">
-    ▶️ Haz clic para ver el video en YouTube
+    ▶️ Watch the prototype on YouTube
   </a>
 </div>
 
 ---
 
-## 📚 Aprendizajes Clave
+## Key Takeaways
 
-- 🧠 **Arquitectura Limpia:** Diseño y organización estructurada de scripts en Unity.
-- 🕹️ **Game Feel:** Ajuste fino del control de personaje para lograr una respuesta de juego satisfactoria.
-- ⚙️ **Optimización:** Gestión eficiente de recursos y lógicas de actualización dentro del motor gráfico.
-
----
-
-## 👥 Créditos y Agradecimientos
-
-Agradecimiento especial a los creadores de los recursos comunitarios utilizados durante este experimento:
-* 🔫 **Modelo del Cañón de Samus:** DorianFillatre
-* 📦 **Modelos Adicionales:** jameslucino117
-* 🧬 **Inspiración:** la Increible Saga de *Metroid* de Nintendo.
+- **Clean architecture:** Designing and organizing scripts in a clear, structured way in Unity.
+- **Game feel:** Fine-tuning character controls to get a responsive, satisfying feel.
+- **Optimization:** Managing resources efficiently and keeping update logic lean within the engine.
 
 ---
 
-## ⚠️ Aviso Legal / Disclaimer
+## Credits
 
-Este proyecto fue desarrollado **únicamente con fines educativos y de demostración técnica**, por amor a la saga y este juego en especifico. No tiene fines comerciales, es un proyecto sin fines de lucro hecho por un fan y no pretende distribuir ni infringir propiedad intelectual protegida por Nintendo, No se actualizará.
+Special thanks to the creators of the community assets used in this experiment:
+* **Samus's Arm Cannon model:** DorianFillatre
+* **Additional models:** jameslucino117
+* **Inspiration:** Nintendo's incredible *Metroid* series.
+
+---
+
+## Download
+
+- https://mega.nz/file/JF80lDoT#nNG8ywzPVe1tD8xs7qMq_0LN0Ri647A_aC5EUrmb4Xw
+
+---
+
+## ⚠️ Disclaimer
+
+This project was developed **solely for educational and technical demonstration purposes**, out of love for the series and this game in particular. It is a non-commercial, not-for-profit fan project and does not intend to distribute or infringe on any intellectual property owned by Nintendo. It will not receive further updates.
