@@ -10,6 +10,7 @@
   <a href="#screenshots">Screenshots</a> •
   <a href="#gameplay">Gameplay</a> •
   <a href="#video">Video</a> •
+  <a href="#download">Download</a> •
   <a href="#credits">Credits</a>
 </p>
 
