@@ -112,7 +112,7 @@ You can watch the full prototype in action on YouTube:
 Special thanks to the creators of the community assets used in this experiment:
 * **Samus's Arm Cannon model:** DorianFillatre
 * **Additional models:** jameslucino117
-* **Inspiration:** Nintendo's incredible *Metroid* series.
+* **Inspiration:** Nintendo's incredible *Metroid* series. ❤️
 
 ---
 
