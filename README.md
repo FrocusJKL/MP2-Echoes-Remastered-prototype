@@ -10,7 +10,6 @@
   <a href="#screenshots">Screenshots</a> •
   <a href="#gameplay">Gameplay</a> •
   <a href="#video">Video</a> •
-  <a href="#download">Download</a> •
   <a href="#credits">Credits</a>
 </p>
 
@@ -117,11 +116,6 @@ Special thanks to the creators of the community assets used in this experiment:
 
 ---
 
-## Download
-
-- https://mega.nz/file/JF80lDoT#nNG8ywzPVe1tD8xs7qMq_0LN0Ri647A_aC5EUrmb4Xw
-
----
 
 ## ⚠️ Disclaimer
 
