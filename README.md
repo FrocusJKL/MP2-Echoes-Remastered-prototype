@@ -120,7 +120,7 @@ Special thanks to the creators of the community assets used in this experiment:
 ## Download
 
 <a href="https://mega.nz/file/JF80lDoT#nNG8ywzPVe1tD8xs7qMq_0LN0Ri647A_aC5EUrmb4Xw">
-    ▶️ Watch the prototype on YouTube
+    ⬇️ Download
 </a>
 
 ---
